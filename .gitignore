@@ -1,0 +1,10 @@
+target
+*.log
+*.iml
+.idea
+node_modules
+resources/public/js/compiled
+checkouts
+.lein-repl-history
+.nrepl-port
+pom.xml
